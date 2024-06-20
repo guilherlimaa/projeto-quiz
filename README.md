@@ -1,4 +1,4 @@
 # projeto-quiz
 
 Teste seus conhecimentos cinematográficos com esse quiz, diversas perguntas
-![screenshot](Quiz.png)
+![quiz](https://raw.githubusercontent.com/guilherlimaa/projeto-quiz/main/Capturar.PNG)
